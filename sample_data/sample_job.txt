@@ -1,0 +1,2 @@
+We are looking for an entry-level backend engineer with Python, FastAPI, PostgreSQL,
+Docker, Git, AWS and REST API experience. Knowledge of pytest is a plus.

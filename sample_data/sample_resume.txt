@@ -1,0 +1,3 @@
+Python backend developer with FastAPI, SQL, Git and Docker experience.
+Built REST APIs and worked on an expense tracking application.
+Familiar with PostgreSQL, Pandas and basic machine learning.
